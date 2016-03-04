@@ -17,6 +17,7 @@ public class TreeNode{
     public TreeNode(String element)
     {
       this.element=element;
+      map=new HashMap<String,TreeNode>();
     }
 
     public void addChild(TreeNode child)

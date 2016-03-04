@@ -1,0 +1,4 @@
+DISTRIBUTOR: DISTRIBUTOR1
+INCLUDE: India
+INCLUDE: Iwatsuki-Saitama-Japan
+EXCLUDE: Karnataka-India
